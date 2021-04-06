@@ -1,0 +1,42 @@
+
+html{
+    
+    margin: 0em;
+    background-color: #212121;
+}
+body{
+    display: flex;
+    margin: 4em;
+    background-color: #484848; 
+    flex-direction: column;
+    color: white;
+}
+
+
+
+input[type="submit"]{
+   background-color: #ff9800;
+   box-shadow: none;
+   text-shadow: none;
+   border: none; 
+   border-radius: 10px;
+   margin: 1em;
+   width: 12.5vw;
+   color: black;
+}
+input[type="text"], input[type="url"]{
+  
+}
+
+table{
+    background-color: #212121;
+    border: solid 1px white;
+    width: 100%;
+    color: white;
+}
+
+fieldset{
+    border: 1px solid black;
+    margin: none;
+    padding: none;
+}
