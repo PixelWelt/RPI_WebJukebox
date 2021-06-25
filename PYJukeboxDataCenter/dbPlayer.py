@@ -1,4 +1,3 @@
-
 import mysql.connector
 import pafy
 import vlc

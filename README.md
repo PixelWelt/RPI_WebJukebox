@@ -17,3 +17,4 @@ Dieses Projekt ist ein Webbasierter Mediaplayer, welcher für das Jugendzentrum 
 ## 3. into Source insert following Data:
     INSERT INTO `Source` (`Name`, `isActive`) Values (`Radio`, `0`);
     INSERT INTO  `Source` (`Name`, `isActive`) Values (`YouTube`, `0`);
+## 4. start dbPlayer.py on Startup
